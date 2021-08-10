@@ -44,5 +44,5 @@
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" target="_blank">
 </div>
 
-  
- <img src="https://komarev.com/ghpvc/?username=cyurimartins&color=green" alt="cyurimartins" /> 
+ <br><br> 
+ <img src="https://komarev.com/ghpvc/?username=cyurimartins&color=red" alt="cyurimartins" /> 
