@@ -1,8 +1,8 @@
-# Olá! Sou Yuri Martins, seja bem vindo ao meu GitHub! 😉
+## Olá! Sou **Yuri Martins**, seja bem vindo ao meu GitHub! 😉
 
-- 🔭 Trabalho com analise de dados.
-- ❤️ Apaixonado por tecnologia! 
-- 🌱 Estudando Python e todo o universo Big Data.
+- 🔭 Trabalho com **analise de dados**.
+- ❤️ Apaixonado por **tecnologia**! 
+- 🌱 Estudando **Python** e todo o universo **Data Analytics**.
 
 
 <div>
